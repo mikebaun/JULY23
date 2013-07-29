@@ -1,0 +1,21 @@
+Not that big. Some of you have already finished!
+
+ 
+
+
+Here are the instructions as they were on the board. Don't forget to put your code on github and send me the link to the repo!!
+ 
+
+
+
+
+Validate the following when your form is submitted:
+ 
+
+1.Ensure no fields are empty
+2.Names between 3 and 50 characters
+3.Zip code --> only numbers
+4.Give useful feedback to user in #errors div.
+ 5.Do not allow the page to refresh.
+
+I've attached my starter files. You're welcome to start with these, but modify as you see fit!
